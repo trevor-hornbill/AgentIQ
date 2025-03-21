@@ -2,6 +2,7 @@
 	path = external/agentiq-opensource-ui
 	url = git@github.com:NVIDIA/AgentIQ-UI.git
 
+
 [submodule "external/agentiq-hornbill"]
 	path = external/agentiq-hornbill
-	url = git@github.com:Hornbill-AI/agentiq-hornbill.git
+	url = https://github.com/Hornbill-AI/agentiq-hornbill
